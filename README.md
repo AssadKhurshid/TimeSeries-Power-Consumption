@@ -8,7 +8,7 @@ This project demonstrates time series forecasting for power consumption using th
 
 Below is the forecast plot generated after training Prophet on the power consumption dataset:
 
-![Forecast Components]((https://raw.githubusercontent.com/AssadKhurshid/TimeSeries-Power-Consumption/refs/heads/main/forecast_plot.png)))
+((https://raw.githubusercontent.com/AssadKhurshid/TimeSeries-Power-Consumption/refs/heads/main/forecast_plot.png)))
 
 This plot shows the predicted power consumption for the next 12 months along with confidence intervals.
 
