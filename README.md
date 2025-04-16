@@ -18,7 +18,7 @@ This plot shows the predicted power consumption for the next 12 months along wit
 
 Prophet breaks down the forecast into trend and seasonality components:
 
-![Forecast Components]([forecast_components.png](https://drive.google.com/drive/folders/19tRwY2boBm5aOwavfsqtqhcaGVs8hCGb))
+![Forecast Plot](https://raw.githubusercontent.com/AssadKhurshid/TimeSeries-Power-Consumption/main/forecast_components.png)
 
 These components help us understand patterns like yearly or monthly trends in the data.
 
